@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fretilinEvote",
+    "slug": "fretilinEvote",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fretilinEvote"
+}
